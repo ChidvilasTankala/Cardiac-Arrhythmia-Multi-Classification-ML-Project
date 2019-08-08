@@ -1,4 +1,4 @@
-# Cardiac_Arrhythmia_Multi_Classification
+# Cardiac-Arrhythmia-Multi-Classification-ML-Project
 
 - Aim: Distinguish presence/absence of cardiac arrhythmia and to classify it into one of the 16 groups
 
